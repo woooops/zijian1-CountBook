@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zijian-CountBook</string>
+    <string name="add">NEW</string>
+    <string name="finish">finish</string>
+    <string name="submit">Submit</string>
+    <string name="delete">DELETE</string>
+    <string name="counter_name">name</string>
+    <string name="counter_init">initial value</string>
+    <string name="counter_comment">comment</string>
+    <string name="counter_increase">Increase</string>
+    <string name="counter_decrease">Decrease</string>
+</resources>
